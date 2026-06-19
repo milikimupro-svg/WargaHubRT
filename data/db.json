@@ -1,0 +1,439 @@
+{
+  "warga": [
+    {
+      "kk": "3374012345670001",
+      "kepalaKeluarga": "Yusuf Kalla Jatingaleh",
+      "alamat": "Jl. Teuku Umar Gg. IV No. 12",
+      "noWhatsApp": "081234567890",
+      "status": "aktif",
+      "iuranWajib": 50000,
+      "jatuhTempo": 10,
+      "riwayatPembayaran": [
+        {
+          "bulan": "2026-04",
+          "tanggalBayar": "2026-04-09",
+          "nominal": 50000,
+          "status": "disetujui"
+        },
+        {
+          "bulan": "2026-05",
+          "tanggalBayar": "2026-05-10",
+          "nominal": 50000,
+          "status": "disetujui"
+        },
+        {
+          "bulan": "2026-06",
+          "tanggalBayar": "2026-06-08",
+          "nominal": 50000,
+          "status": "disetujui"
+        }
+      ]
+    },
+    {
+      "kk": "3374012345670002",
+      "kepalaKeluarga": "Bambang Heriyanto",
+      "alamat": "Jl. Teuku Umar Gg. IV No. 15",
+      "noWhatsApp": "085698765432",
+      "status": "aktif",
+      "iuranWajib": 50000,
+      "jatuhTempo": 10,
+      "riwayatPembayaran": [
+        {
+          "bulan": "2026-04",
+          "tanggalBayar": "2026-04-10",
+          "nominal": 50000,
+          "status": "disetujui"
+        },
+        {
+          "bulan": "2026-05",
+          "tanggalBayar": "2026-05-09",
+          "nominal": 50000,
+          "status": "disetujui"
+        },
+        {
+          "bulan": "2026-06",
+          "tanggalBayar": "2026-06-15",
+          "nominal": 50000,
+          "status": "pending",
+          "buktiBayar": "iuran_bambang_juni.png"
+        }
+      ]
+    },
+    {
+      "kk": "3374012345670003",
+      "kepalaKeluarga": "Siti Aminah",
+      "alamat": "Jl. Teuku Umar Gg. V No. 3A",
+      "noWhatsApp": "082144335566",
+      "status": "aktif",
+      "iuranWajib": 40000,
+      "jatuhTempo": 15,
+      "riwayatPembayaran": [
+        {
+          "bulan": "2026-04",
+          "tanggalBayar": "2026-04-14",
+          "nominal": 40000,
+          "status": "disetujui"
+        },
+        {
+          "bulan": "2026-05",
+          "tanggalBayar": "2026-05-15",
+          "nominal": 40000,
+          "status": "disetujui"
+        }
+      ]
+    },
+    {
+      "kk": "3374012345670004",
+      "kepalaKeluarga": "Rian Adianto",
+      "alamat": "Jl. Teuku Umar Gg. IV No. 2",
+      "noWhatsApp": "081922334455",
+      "status": "aktif",
+      "iuranWajib": 50000,
+      "jatuhTempo": 10,
+      "riwayatPembayaran": [
+        {
+          "bulan": "2026-04",
+          "tanggalBayar": "2026-04-09",
+          "nominal": 50000,
+          "status": "disetujui"
+        },
+        {
+          "bulan": "2026-05",
+          "tanggalBayar": "2026-05-10",
+          "nominal": 50000,
+          "status": "disetujui"
+        },
+        {
+          "bulan": "2026-06",
+          "tanggalBayar": "2026-06-11",
+          "nominal": 50000,
+          "status": "disetujui"
+        }
+      ]
+    },
+    {
+      "kk": "3374012345670005",
+      "kepalaKeluarga": "Hendra Wijaya",
+      "alamat": "Jl. Teuku Umar Gg. V No. 10",
+      "noWhatsApp": "087788990011",
+      "status": "aktif",
+      "iuranWajib": 60000,
+      "jatuhTempo": 12,
+      "riwayatPembayaran": [
+        {
+          "bulan": "2026-04",
+          "tanggalBayar": "2026-04-11",
+          "nominal": 60000,
+          "status": "disetujui"
+        },
+        {
+          "bulan": "2026-05",
+          "tanggalBayar": "2026-05-11",
+          "nominal": 60000,
+          "status": "disetujui"
+        }
+      ]
+    },
+    {
+      "kk": "3374012345670006",
+      "kepalaKeluarga": "Dewi Sartika",
+      "alamat": "Jl. Teuku Umar Gg. IV No. 25",
+      "noWhatsApp": "083112233445",
+      "status": "aktif",
+      "iuranWajib": 50000,
+      "jatuhTempo": 10,
+      "riwayatPembayaran": [
+        {
+          "bulan": "2026-04",
+          "tanggalBayar": "2026-04-10",
+          "nominal": 50000,
+          "status": "disetujui"
+        }
+      ]
+    },
+    {
+      "kk": "3374012345670007",
+      "kepalaKeluarga": "Prabowo Subianto",
+      "alamat": "Jl. Teuku Umar Gg. V No. 1",
+      "noWhatsApp": "088877776666",
+      "status": "nonaktif",
+      "iuranWajib": 30000,
+      "jatuhTempo": 15,
+      "riwayatPembayaran": []
+    }
+  ],
+  "transaksi": [
+    {
+      "id": "TX-10001",
+      "tanggal": "2026-04-01",
+      "nominal": 5200000,
+      "tipe": "pemasukan",
+      "kategori": "Donasi",
+      "keterangan": "Sumbangan awal pembangunan pos ronda dari donatur Kelurahan Jatingaleh",
+      "statusPersetujuan": "disetujui",
+      "pembuat": "bendahara"
+    },
+    {
+      "id": "TX-10002",
+      "tanggal": "2026-04-10",
+      "nominal": 250000,
+      "tipe": "pemasukan",
+      "kategori": "Iuran Bulanan",
+      "keterangan": "Iuran bulanan kolektif April (Yusuf, Bambang, Siti, Rian, Hendra)",
+      "statusPersetujuan": "disetujui",
+      "pembuat": "bendahara"
+    },
+    {
+      "id": "TX-10003",
+      "tanggal": "2026-04-15",
+      "nominal": 450000,
+      "tipe": "pengeluaran",
+      "kategori": "Kebersihan",
+      "keterangan": "Gaji petugas pengangkut sampah bulanan RT 04 RW 04",
+      "buktiTransaksi": "nota_gaji_sampah_april.png",
+      "statusPersetujuan": "disetujui",
+      "pembuat": "bendahara"
+    },
+    {
+      "id": "TX-10004",
+      "tanggal": "2026-05-01",
+      "nominal": 3500000,
+      "tipe": "pemasukan",
+      "kategori": "Donasi",
+      "keterangan": "Sponsorship Kegiatan Kerja Bakti dari Toko Bangunan Jati Indah",
+      "statusPersetujuan": "disetujui",
+      "pembuat": "bendahara"
+    },
+    {
+      "id": "TX-10005",
+      "tanggal": "2026-05-10",
+      "nominal": 200000,
+      "tipe": "pengeluaran",
+      "kategori": "Administrasi",
+      "keterangan": "Beli buku kas besar, pulpen, dan cetak fotokopi undangan rapat RT",
+      "buktiTransaksi": "nota_faktur_cetak.png",
+      "statusPersetujuan": "disetujui",
+      "pembuat": "bendahara"
+    },
+    {
+      "id": "TX-10006",
+      "tanggal": "2026-05-12",
+      "nominal": 1500000,
+      "tipe": "pengeluaran",
+      "kategori": "Perbaikan Fasilitas",
+      "keterangan": "Biaya penggantian 5 titik lampu jalan yang mati di lingkungan RT 04",
+      "buktiTransaksi": "lampu_faktur.png",
+      "statusPersetujuan": "disetujui",
+      "pembuat": "bendahara"
+    },
+    {
+      "id": "TX-10007",
+      "tanggal": "2026-05-15",
+      "nominal": 450000,
+      "tipe": "pengeluaran",
+      "kategori": "Kebersihan",
+      "keterangan": "Gaji petugas pengangkut sampah bulanan RT 04 RW 04",
+      "buktiTransaksi": "nota_gaji_sampah_mei.png",
+      "statusPersetujuan": "disetujui",
+      "pembuat": "bendahara"
+    },
+    {
+      "id": "TX-10008",
+      "tanggal": "2026-06-02",
+      "nominal": 1200000,
+      "tipe": "pengeluaran",
+      "kategori": "Kegiatan Warga",
+      "keterangan": "Konsumsi dan alat kebersihan untuk acara kerja bakti akbar menyambut Idul Adha",
+      "buktiTransaksi": "nota_konsumsi_bakti.png",
+      "statusPersetujuan": "disetujui",
+      "pembuat": "bendahara"
+    },
+    {
+      "id": "TX-10009",
+      "tanggal": "2026-06-08",
+      "nominal": 50000,
+      "tipe": "pemasukan",
+      "kategori": "Iuran Bulanan",
+      "keterangan": "Pembayaran iuran Yusuf Kalla Jatingaleh periode Juni 2026",
+      "statusPersetujuan": "disetujui",
+      "pembuat": "bendahara",
+      "kkTerkait": "3374012345670001",
+      "bulanIuran": "2026-06"
+    },
+    {
+      "id": "TX-10010",
+      "tanggal": "2026-06-11",
+      "nominal": 50000,
+      "tipe": "pemasukan",
+      "kategori": "Iuran Bulanan",
+      "keterangan": "Pembayaran iuran Rian Adianto periode Juni 2026",
+      "statusPersetujuan": "disetujui",
+      "pembuat": "bendahara",
+      "kkTerkait": "3374012345670004",
+      "bulanIuran": "2026-06"
+    },
+    {
+      "id": "TX-10011",
+      "tanggal": "2026-06-17",
+      "nominal": 4500000,
+      "tipe": "pengeluaran",
+      "kategori": "Perbaikan Fasilitas",
+      "keterangan": "Pembatan dan perbaikan talud selokan buntu dekat pos kamling (menghindari longsor)",
+      "buktiTransaksi": "faktur_semen_pasir.png",
+      "statusPersetujuan": "pending",
+      "pembuat": "bendahara"
+    }
+  ],
+  "targetDana": [
+    {
+      "id": "TGT-001",
+      "nama": "Pengadaan Sistem CCTV Lingkungan",
+      "deskripsi": "Pemasangan 4 titik kamera CCTV nirkabel dengan DVR pusat di pos ronda untuk meningkatkan keamanan lingkungan RT.",
+      "estimasiBiaya": 4500000,
+      "targetTanggal": "2026-08-30",
+      "persentaseAlokasi": 20,
+      "sudahTerkumpul": 1600000,
+      "status": "aktif"
+    },
+    {
+      "id": "TGT-002",
+      "nama": "Renovasi dan Pengecatan Pos Ronda",
+      "deskripsi": "Perbaikan atap bocor, renovasi tempat duduk, dan pengecatan ulang pos kamling RT 04 RW 04 Kelurahan Jatingaleh.",
+      "estimasiBiaya": 2500000,
+      "targetTanggal": "2026-07-25",
+      "persentaseAlokasi": 15,
+      "sudahTerkumpul": 1200000,
+      "status": "aktif"
+    },
+    {
+      "id": "TGT-003",
+      "nama": "Pembelian Gerobak Sampah Baru",
+      "deskripsi": "Membeli gerobak sampah stainless yang lebih besar dan awet untuk menggantikan gerobak lama yang sudah keropos.",
+      "estimasiBiaya": 1800000,
+      "targetTanggal": "2026-09-15",
+      "persentaseAlokasi": 10,
+      "sudahTerkumpul": 800000,
+      "status": "aktif"
+    }
+  ],
+  "usulanVoting": [
+    {
+      "id": "VSL-001",
+      "judul": "Pengadaan Fogging Massal DBD",
+      "deskripsi": "Melakukan penyemprotan fogging untuk mencegah wabah demam berdarah dengu di semua rumah warga RT 04, mengingat musim hujan yang berkepanjangan.",
+      "estimasiAnggaran": 1200000,
+      "lampiranFoto": "fogging_reference.jpg",
+      "pengusulKK": "3374012345670003",
+      "namaPengusul": "Siti Aminah",
+      "suaraSetuju": [
+        "3374012345670003",
+        "3374012345670001",
+        "3374012345670004",
+        "3374012345670005"
+      ],
+      "suaraTolak": [],
+      "totalKeluarga": 6,
+      "tanggalBatas": "2026-06-25",
+      "status": "voting"
+    },
+    {
+      "id": "VSL-002",
+      "judul": "Peralatan Tensi & Timbangan Posyandu Lansia",
+      "deskripsi": "Pengadaan alat tensi darah digital, timbangan berat badan digital, dan alat cek gula darah untuk menunjang kegiatan posyandu lansia bulanan di RT 04.",
+      "estimasiAnggaran": 850000,
+      "pengusulKK": "3374012345670002",
+      "namaPengusul": "Bambang Heriyanto",
+      "suaraSetuju": [
+        "3374012345670002",
+        "3374012345670004",
+        "3374012345670001"
+      ],
+      "suaraTolak": [
+        "3374012345670005"
+      ],
+      "totalKeluarga": 6,
+      "tanggalBatas": "2026-06-15",
+      "status": "lolos",
+      "catatanKetua": "Bagus sekali untuk menunjang kesehatan lansia. Disetujui untuk dilaksanakan segera menggunakan kas tak terduga."
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "LOG-1781882167361-514",
+      "timestamp": "2026-06-19T15:16:07.361Z",
+      "user": "Bendahara",
+      "role": "bendahara",
+      "aktivitas": "Login berhasil sebagai Bendahara",
+      "kategori": "login"
+    },
+    {
+      "id": "LOG-1781881955061-521",
+      "timestamp": "2026-06-19T15:12:35.061Z",
+      "user": "Bendahara",
+      "role": "bendahara",
+      "aktivitas": "Login berhasil sebagai Bendahara",
+      "kategori": "login"
+    },
+    {
+      "id": "LOG-001",
+      "timestamp": "2026-06-15T08:30:12.112Z",
+      "user": "bendahara",
+      "role": "bendahara",
+      "aktivitas": "Login ke dalam sistem kas WargaHubRT",
+      "kategori": "login"
+    },
+    {
+      "id": "LOG-002",
+      "timestamp": "2026-06-15T09:12:00.000Z",
+      "user": "bendahara",
+      "role": "bendahara",
+      "aktivitas": "Mengatur iuran wajib kepala keluarga Hendra Wijaya menjadi Rp60.000 (sebelumnya Rp50.000) karena penambahan jumlah anggota keluarga",
+      "kategori": "warga"
+    },
+    {
+      "id": "LOG-003",
+      "timestamp": "2026-06-17T11:45:33.421Z",
+      "user": "bendahara",
+      "role": "bendahara",
+      "aktivitas": "Mencatatkan usulan pengeluaran besar: Pembangunan dan perbaikan talud selokan buntu dekat pos kamling sebesar Rp4.500.000. Status menunggu persetujuan Ketua RT.",
+      "kategori": "transaksi"
+    },
+    {
+      "id": "LOG-004",
+      "timestamp": "2026-06-18T10:00:22.981Z",
+      "user": "ketua_rt",
+      "role": "ketua_rt",
+      "aktivitas": "Menyetujui usulan Pengadaan Peralatan Tensi & Timbangan Lansia yang lolos voting warga",
+      "kategori": "persetujuan"
+    }
+  ],
+  "notificationLogs": [
+    {
+      "id": "NOTIF-001",
+      "timestamp": "2026-06-10T08:00:00.000Z",
+      "penerima": "Semua Warga RT 04",
+      "pesan": "[PENGINGAT JATUH TEMPO] Yth. Bapak/Ibu Warga RT 04 RW 04 Kelurahan Jatingaleh, diingatkan pembayaran iuran wajib bulanan jatuh tempo hari ini tanggal 10. Silakan melakukan pembayaran secara tunai ke Bendahara atau transfer bank dan unggah bukti di aplikasi WargaHubRT. Terima kasih.",
+      "tipe": "jatuh_tempo",
+      "saluran": "WhatsApp",
+      "status": "sent"
+    },
+    {
+      "id": "NOTIF-002",
+      "timestamp": "2026-06-11T13:10:00.000Z",
+      "penerima": "Rian Adianto",
+      "pesan": "[KONFIRMASI PEMBAYARAN] Terima kasih Bapak/Ibu Rian Adianto. Pembayaran iuran bulanan iuran wajib periode Juni 2026 sebesar Rp50.000 telah diterima dan diverifikasi oleh Bendahara RT.",
+      "tipe": "pembayaran",
+      "saluran": "WhatsApp",
+      "status": "sent"
+    }
+  ],
+  "reportOptions": {
+    "judul": "LAPORAN BULANAN PERTANGGUNGJAWABAN BENDAHARA",
+    "pembuat": "Bpk. Bendahara RT",
+    "pengesah": "Ketua RT 04 Jatingaleh",
+    "catatanKaki": "Laporan kas ini bersifat transparan dan diperbarui secara real-time demi kerukunan warga RT 04 Jatingaleh.",
+    "tampilkanTargetDana": true,
+    "tampilkanTunggakan": true,
+    "tampilkanMusyawarah": true
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "TranspariRT",
+  "description": "Aplikasi pengelolaan keuangan RT 04 RW 04 Kelurahan Jatingaleh untuk transparansi, pencatatan kas, dan voting warga secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
